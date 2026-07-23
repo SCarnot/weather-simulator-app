@@ -55,7 +55,6 @@ def get_meteo_projete(longitude, latitude, date_debut, date_fin, modele="CMCC_CM
     daily = r.json()["daily"]
     dates = pd.to_datetime(daily["time"])
 
-    # un seul modèle -> l'API ne suffixe pas les clés (vu en Réponse 4 et 9)
     data = {}
     for var in ["temperature_2m_max", "temperature_2m_min", "precipitation_sum"]:
         cle = f"{var}_{modele}" if f"{var}_{modele}" in daily else var
