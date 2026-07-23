@@ -5,9 +5,9 @@ EN : Will the weather be like in your city in July 2046 or December 2049? Simula
 /!\ This is not a weather forecast, but a simulation: the application proposes weather sequences that are PLAUSIBLE in the context of climate change, but it does not predict the exact weather on a specific date. /!\
 
 
-FR : Quelle sera la météo dans votre ville en juillet 2046 ou en décembre 2049 ? Simulez la météo dans votre ville dans un. futur proche, en visualisant jour par jour une météo (températures, précipitations) qui sera plausible dans le contexte du réchauffement climatique. Cette application a pour but de permettre aux utilisateurs de se rendre compte concrètement à quoi pourrait ressembler une séquence météo (par exemple un été dans la décénnie 2040) dans un lieu précis. Par exemple, il est posible d'évaluer en agriculture la viabilité d'une culture à un endroit donné, en estimant les rendements sur plusieurs années successives.
+FR : Quel sera le temps dans votre ville en juillet 2046 ou en décembre 2049 ? Simulez la météo dans votre ville dans un futur proche, en visualisant jour par jour la série des températures et les précipitations, plausible dans le contexte du réchauffement climatique. Cette application a pour but de permettre aux utilisateurs de se rendre compte concrètement à quoi pourrait ressembler une séquence météo (par exemple un été dans la décennie 2040) dans un lieu précis. Par exemple, il est possible d'évaluer en agriculture la viabilité d'une culture en un endroit donné, en estimant les rendements sur plusieurs années successives.
 
-/!\ Ce n'est pas une prévision météo, mais une simulation : l'application propose des séquences météo PROBABLES dans le contexte du réchauffmeenbt climatique, mais pas prévoir le temps exact qu'il fera à une date précise. /!\
+/!\ Ce n'est pas une prévision météo, mais une simulation : l'application propose des séquences météo PROBABLES dans le contexte du réchauffement climatique, mais ne permet pas de prévoir le temps exact qu'il fera à une date précise. /!\
 
 ## Features/Fonctionnalités
 
@@ -15,7 +15,7 @@ EN : Like a typical weather app, simply enter the location where you want to sim
 
 /!\ under construction /!\
 
-FR : Comme une application météo classique, il suffit de rentrer le lieu où vous souhaitez simulez le temps qu'il fera, puis de choisir une plage de dates pour visualiser les principales caractéristiques météorologiques (température minimale, température maximale, précipitations, etc.). Le choix temporel se fait aussi bien pour le passé (observations réelles) que dans le futur (simulation à partir de modèles météorologiques et climatiques).
+FR : Comme une application météo classique, il suffit de rentrer le lieu où vous souhaitez simuler le temps qu'il fera, puis de choisir une plage de dates pour visualiser les principales caractéristiques météorologiques (température minimale, température maximale, précipitations, etc.). Le choix temporel se fait aussi bien pour le passé (observations réelles) que dans le futur (simulation à partir de modèles météorologiques et climatiques).
 
 /!\ en contruction /!\
 
