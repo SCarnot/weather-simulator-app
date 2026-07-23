@@ -22,15 +22,15 @@ FR : Comme une application météo classique, il suffit de rentrer le lieu où v
 ## Structure du projet
 
 weather-simulator-app/
-├── src/
-│   └── meteo_app/
-│       ├── init.py
-│       └── get_meteo.py      # Fonction principale de récupération météo
-├── notebooks/
-│   └── test_manuel.py        # Script de test manuel
-├── requirements.txt          # Dépendances Python
-├── pyproject.toml            # Configuration du package
-└── README.md
+|-- src/
+|   |-- meteo_app/
+|       |-- init.py
+|       |-- get_meteo.py      # Fonction principale de récupération météo
+|-- notebooks/
+|   |-- test_manuel.py        # Script de test manuel
+|-- requirements.txt          # Dépendances Python
+|-- pyproject.toml            # Configuration du package
+|-- README.md
 
 ## Installation
 
